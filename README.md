@@ -62,3 +62,6 @@ incluindo nome, email do usuário
 
 - explorer 
 ◽ No windows para abrir o gerenciador de arquivos
+
+
+ALTERAÇÃO FEITA PELO REPOSITORIO REMOTO
